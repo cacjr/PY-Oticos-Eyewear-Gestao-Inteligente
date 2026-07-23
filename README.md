@@ -1,4 +1,4 @@
-# 👓 Óticos Eyewear - Sistema de Gestão de Estoque
+# Óticos Eyewear - Sistema de Gestão de Estoque
 
 Sistema desenvolvido em **Python** para gerenciamento de estoque, vendas e controle financeiro de uma ótica. O projeto permite cadastrar produtos, registrar vendas, controlar movimentações do estoque e gerar relatórios completos.
 
