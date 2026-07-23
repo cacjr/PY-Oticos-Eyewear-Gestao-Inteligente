@@ -145,7 +145,7 @@ Registra automaticamente:
 ## 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/sistema-estoque-vendas.git
+git clone https://github.com/cacjr/PY-Oticos-Eyewear-Gestao-Inteligente
 ```
 
 ## 2. Acesse a pasta
@@ -167,16 +167,6 @@ python main.py
 - Python 3.10 ou superior
 
 Não é necessária a instalação de bibliotecas externas.
-
----
-
-# Tecnologias Utilizadas
-
-- Python
-- Programação Orientada a Objetos (POO)
-- Manipulação de Arquivos
-- Modularização
-- Tratamento de Exceções
 
 ---
 
