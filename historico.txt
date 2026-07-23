@@ -1,0 +1,7 @@
+OS001;Oculos Osklen;cadastro;100;27/04/2026 21:36:28;Cadastro inicial
+OS001;Oculos Osklen;remocao;50;27/04/2026 21:39:15;Remocao manual do estoque
+RB001;Óculos RayBan;cadastro;2;27/04/2026 21:43:02;Cadastro inicial
+RB001;Óculos RayBan;venda;1;27/04/2026 21:45:43;Venda VENDA_20260427214543_689
+OS001;Oculos Osklen;venda;3;27/04/2026 21:47:05;Venda VENDA_20260427214705_372
+OS001;Oculos Osklen;venda;3;27/04/2026 21:47:32;Venda VENDA_20260427214705_372
+RB001;Óculos RayBan;venda;1;28/04/2026 22:25:13;Venda VENDA_20260428222513_753

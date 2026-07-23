@@ -1,0 +1,2 @@
+Oculos Osklen;OS001;Solar;47;119.0;Osklen;Solar, Masculino, Adulto
+Óculos RayBan;RB001;Solar;1;900.0;RayBan;Solar, Feminino, Adulto
