@@ -172,8 +172,9 @@ Não é necessária a instalação de bibliotecas externas.
 
 # Conceitos Aplicados
 
-Durante o desenvolvimento foram utilizados diversos conceitos da linguagem Python, como:
+Durante o desenvolvimento foram utilizados diversos conceitos como:
 
+- Business Intelligence & UXpll
 - Organização modular do código
 - Classes e Objetos
 - Encapsulamento
